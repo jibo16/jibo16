@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jibo16
-- 👀 I’m interested in Finance and Sailboats
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Finance modeling
+- 👀 I’m interested in Finance and Technology.
+- 🌱 I’m currently learning Python, PowerBi, Interactive map visualization.
+- 💞️ I’m looking to collaborate on anything related to Data Analysis.
 - 📫 How to reach me private msg
 
 <!---
