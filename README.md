@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on anything related to data engineering tasks related to financial intelligence.
 - I'm also intersted in Data Science applied to marketing or business desitions.
 - Add me to codewars -> https://www.codewars.com/users/jibo16
-- 
+
 
 
 <!---
