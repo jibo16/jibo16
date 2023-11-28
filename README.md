@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @jibo16
-- 👀 I’m interested in Finance and Technology.
-- 💞️ I’m looking to collaborate on anything related to Data Analysis.
+- 👀 I’m interested in Data science and Data engineering applied to intelligence and financial intelligence 
+- 💞️ I’m looking to collaborate on anything related to data engineering tasks related to financial intelligence.
+- I'm also intersted in Data Science applied to marketing or business desitions.
+- Add me to codewars -> https://www.codewars.com/users/jibo16
+- 
 
 
 <!---
